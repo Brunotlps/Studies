@@ -1,0 +1,3 @@
+Elaborei este repositório com o propósito de compartilhar meus exercícios práticos de lógica de programação, empregando as linguagens JavaScript e Python. Estou convencido de que essa iniciativa me estimulará a aprimorar minha habilidade lógica na programação, além de promover o uso efetivo do GitHub. Receberei de bom grado críticas construtivas, bem como sugestões de exercícios adicionais e possíveis novos repositórios
+
+I have created this repository to share my practical exercises in programming logic using the JavaScript and Python languages. I believe that this approach will encourage me to further improve my programming logic and also to utilize GitHub. Constructive criticism is highly welcomed, as well as ideas for exercises and new repositories.
